@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: ms-producto.serve
+    - host: ms-producto.server
       http:
         paths:
           - path: /
@@ -17,4 +17,4 @@ spec:
               service:
                 name: ms-producto-api-service
                 port:
-                  number: 8282  # Esto debe coincidir con el puerto del Service
+                  number: 8484  # Esto debe coincidir con el puerto del Service
