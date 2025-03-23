@@ -8,7 +8,7 @@ WORKDIR /app
 COPY build/libs/docker-1.0.1-SNAPSHOT.jar app.jar
 
 # 4. Exponer el puerto en el que corre la aplicación
-EXPOSE 8080
+EXPOSE 8282
 
 # 5. Comando para ejecutar la aplicación
 ENTRYPOINT ["java", "-jar", "app.jar"]
