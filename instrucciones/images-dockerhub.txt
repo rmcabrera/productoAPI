@@ -2,4 +2,13 @@
 
 https://hub.docker.com/r/mcabrerac/ms-producto-api
 
+mcabrerac/ms-producto-api:v2
+
+https://hub.docker.com/layers/mcabrerac/ms-producto-api/v2/images/sha256-03fe44d96fa9f2f82af164b235fda251f1a2386c975ac708d9a0b3770ab3fc75
+
+
 https://hub.docker.com/r/mcabrerac/h2-database
+
+mcabrerac/h2-database:v1
+
+https://hub.docker.com/layers/mcabrerac/h2-database/v1/images/sha256-578b9dcb680f1ad8237c38e67388960a346b348a0b9339fc98c65440a9259fbf
